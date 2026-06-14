@@ -2,10 +2,10 @@
 
 This app is intended to be used with the matching STM32 rover firmware and the STM32 base logger firmware:
 
-```text
+
 [Base firmware](https://github.com/jesrockr/stm32_f9p_gnss_base_logger)
 [Rover firmware](https://github.com/jesrockr/stm32_f9p_gnss_rover_logger)
-```
+
 
 Android companion app for a low-cost STM32 + ZED-F9P RTK rover logger.
 
