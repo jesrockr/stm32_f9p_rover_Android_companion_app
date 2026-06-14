@@ -4,6 +4,7 @@ This app is intended to be used with the matching STM32 rover firmware and the S
 
 
 [Base firmware](https://github.com/jesrockr/stm32_f9p_gnss_base_logger)
+
 [Rover firmware](https://github.com/jesrockr/stm32_f9p_gnss_rover_logger)
 
 
