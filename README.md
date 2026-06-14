@@ -1,5 +1,12 @@
 # F9P Rover Logger Android App
 
+This app is intended to be used with the matching STM32 rover firmware and the STM32 base logger firmware:
+
+```text
+Base firmware:  https://github.com/jesrockr/stm32_f9p_gnss_base_logger
+Rover firmware: https://github.com/jesrockr/stm32_f9p_gnss_rover_logger
+```
+
 Android companion app for a low-cost STM32 + ZED-F9P RTK rover logger.
 
 The STM32 remains the trusted field logger. It records raw `.UBX` files and point CSV files to the SD card. This Android app connects to the rover over an HC-05 Bluetooth module and provides a live field interface for viewing GNSS status, storing points, reviewing points on a simple map, attaching photos, and exporting project data.
@@ -35,14 +42,6 @@ This app is designed for the rover half of a base/rover setup:
 
 The STM32 firmware handles raw GNSS logging and point averaging. The phone app is the operator interface.
 
-## Related Project
-
-This app is intended to be used with the matching STM32 rover firmware and the STM32 base logger firmware:
-
-```text
-Base firmware:  https://github.com/jesrockr/stm32_f9p_gnss_base_logger
-Rover firmware: https://github.com/jesrockr/stm32_f9p_gnss_rover_logger
-```
 
 ## Build Requirements
 
