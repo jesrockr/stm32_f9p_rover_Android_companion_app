@@ -143,6 +143,3 @@ For survey work:
 - Do not rely only on phone-side cached project data.
 - Re-observe critical points when practical.
 
-## License
-
-Choose a license before public release. MIT is a simple permissive choice if you want other people to freely use and modify the app.
