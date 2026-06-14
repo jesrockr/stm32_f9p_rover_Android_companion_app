@@ -42,8 +42,8 @@ This app is intended to be used with the matching STM32 rover firmware and the S
 Add links here after both repositories are public:
 
 ```text
-Base firmware:  https://github.com/YOUR_USERNAME/YOUR_BASE_REPO
-Rover firmware: https://github.com/YOUR_USERNAME/YOUR_ROVER_FIRMWARE_REPO
+Base firmware:  https://github.com/jesrockr/stm32_f9p_gnss_base_logger
+Rover firmware: https://github.com/jesrockr/stm32_f9p_gnss_rover_logger
 ```
 
 ## Build Requirements
