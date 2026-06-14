@@ -37,9 +37,7 @@ The STM32 firmware handles raw GNSS logging and point averaging. The phone app i
 
 ## Related Project
 
-This app is intended to be used with the matching STM32 rover firmware and the STM32 base logger firmware.
-
-Add links here after both repositories are public:
+This app is intended to be used with the matching STM32 rover firmware and the STM32 base logger firmware:
 
 ```text
 Base firmware:  https://github.com/jesrockr/stm32_f9p_gnss_base_logger
